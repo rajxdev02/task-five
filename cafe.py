@@ -60,5 +60,5 @@ for i in range(len(ordered_items)):
 print("-----------------------")
 print("Grand Total: Rs." + str(total_bill))
 print("=======================")
-print("Thank you for visiting! Come again.") 
-#Checking for branch dev-raj2
+# Testing auto-merge workflow from dev-raj1 - attempt 2
+# your dev-raj2 change here
